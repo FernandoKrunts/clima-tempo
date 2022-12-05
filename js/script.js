@@ -1,5 +1,5 @@
 // Variaveis e seleção de elementos
-const apiKey ="ea912d19509aba060ebdba15a33dd569";
+const apiKey ="ebd22cef27e20c54430e4c1ac4105ed0";
 const apiCountyURL ="https://countryflagsapi.com/png/";
 
 const cityInput = document.querySelector("#city-input");
